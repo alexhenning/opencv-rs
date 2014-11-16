@@ -1,0 +1,7 @@
+[submodule "external/opencv"]
+	path = external/opencv
+	url = git@github.com:Itseez/opencv.git
+	branch = 2.4
+[submodule "external/rust-bindgen"]
+	path = external/rust-bindgen
+	url = git@github.com:crabtw/rust-bindgen.git
